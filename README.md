@@ -1,2 +1,3 @@
 # InstaClone
-![Schermata 2021-07-07 alle 18 03 26](https://user-images.githubusercontent.com/74260450/127038613-3771c9c3-4ae4-4aef-bb75-de27a74da188.png)
+![Schermata 2021-07-26 alle 20 23 55](https://user-images.githubusercontent.com/74260450/127039437-5383647a-23a3-424a-ba8f-56c132f3b863.png)
+
